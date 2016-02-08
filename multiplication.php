@@ -1,5 +1,6 @@
 <?php
 $i = 5;
 $j = 10;
-echo $i * $j;
+$k = 20;
+echo $i * $j * $k;
 ?>
